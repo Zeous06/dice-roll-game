@@ -1,7 +1,6 @@
 {
   "name": "dice-roll-game",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +11,15 @@
   "license": "ISC",
   "dependencies": {
     "webpack": "^3.5.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeous06/dice-roll-game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zeous06/dice-roll-game/issues"
+  },
+  "homepage": "https://github.com/Zeous06/dice-roll-game#readme",
+  "description": "a javascript game"
 }
