@@ -1,0 +1,16 @@
+{
+  "name": "dice-roll-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:js": "webpack app.js bundle.js",
+    "watch:js": "webpack -w app.js bundle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^3.5.1"
+  }
+}
